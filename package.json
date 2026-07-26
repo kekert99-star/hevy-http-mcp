@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "elysia": "latest",
-    "elysia-mcp": "^0.0.11",
+    "elysia-mcp": "^0.1.1",
     "ofetch": "^1.5.1"
   },
   "devDependencies": {
