@@ -42,6 +42,7 @@ const app = new Elysia()
         tools: {},
       },
       enableLogging: true,
+      enableJsonResponse: true,
       // PATCH: Authentication check disabled.
       //
       // Why: this server was built to send back 401/403 for missing/invalid
